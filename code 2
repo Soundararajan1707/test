@@ -4,4 +4,4 @@ int var, char;
 int a;
 int b;
 printf (error);
-kanne kalaimaane
+error is the error which will display error which cant be resolved and will display as error.
